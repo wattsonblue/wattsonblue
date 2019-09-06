@@ -1,6 +1,6 @@
 {
-"status": true,
-"message": "",
-"landing_message": "",
-"title": ""
+"status": false,
+"message": "We are upgrading our servers 9pm-11pm London Time, Fri 6Sep. Sorry about any trouble this might cause.",
+"landing_message": "We are upgrading our servers. 9pm-11pm London Time, Fri 6Sep. Sorry about any trouble this might cause.",
+"title": "Scheduled Maintenance"
 }
