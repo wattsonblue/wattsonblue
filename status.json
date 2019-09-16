@@ -1,6 +1,6 @@
 {
-"status": true,
-"message": "",
-"landing_message": "",
-"title": ""
+"status": false,
+"message": "We are upgrading our servers on Mon 16/Sep/2019 8-10pm BST (3-5pm EDT). Our servers may be inaccessible during this time.",
+"landing_message": "We are upgrading our servers on Mon 16/Sep/2019 8-10pm BST (3-5pm EDT). Our servers may be inaccessible during this time.",
+"title": "Planned Downtime"
 }
