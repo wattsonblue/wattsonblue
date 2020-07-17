@@ -1,6 +1,6 @@
 {
-"status": false,
-"message": "We are investigating an issue with our servers. Apologies for any issues you may see.",
-"landing_message": "We are investigating an issue with our servers. You may not be able to register or login in the meantime.",
+"status": true,
+"message": "",
+"landing_message": "",
 "title": ""
 }
